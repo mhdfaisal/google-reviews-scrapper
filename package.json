@@ -1,0 +1,16 @@
+{
+  "name": "google-reviews-scrapper",
+  "version": "1.0.0",
+  "description": "A web scrapper for google reviews built using node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node scrape.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
