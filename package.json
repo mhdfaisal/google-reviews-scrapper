@@ -1,5 +1,5 @@
 {
-  "name": "thetrustsearch-node-scrapper",
+  "name": "google-reviews-scrapper",
   "version": "1.0.0",
   "description": "Google reviews scrapper",
   "main": "scrape.js",
@@ -7,7 +7,7 @@
     "dev": "node -r esm app.js"
   },
   "author": "Mohd Faisal",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
     "cors": "^2.8.5",

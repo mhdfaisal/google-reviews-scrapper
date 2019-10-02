@@ -1,6 +1,4 @@
-# Google Maps Review Scrape.js (GMRS.js)
+# Google Maps Review Scrapper
 Scrape the latest Google Review from Google Maps using Node.js.
 
-Run by typing 'node index.js'
-
-Watch it in action on YouTube: https://www.youtube.com/techmeshow
+Run by typing 'npm run dev'
